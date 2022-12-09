@@ -18,6 +18,17 @@ def coordinate_conversion(cartesian_coordinates: np.ndarray) -> np.ndarray:
 def find_closest_index(values: np.ndarray, number: float) -> int:
     return 0
 
+def graph_sin():
+    pass
+
+def monte_carlo():
+    pass
+
+def integrale():
+    pass
+
+def integrale_graph():
+    pass
 
 if __name__ == '__main__':
     # TODO: Appelez vos fonctions ici
